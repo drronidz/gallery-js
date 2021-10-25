@@ -1,2 +1,3 @@
 # gallery
-JS Gallery
+John Smigla Projects 
+JS Gallery using OOP ...
